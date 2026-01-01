@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "r_dlms_data_meter.h": "c",
+        "r_dlms_data.h": "c"
+    }
+}

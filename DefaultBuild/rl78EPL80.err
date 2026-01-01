@@ -1,0 +1,18 @@
+rlApplication\Source\..\\Include\\AppVariables.h(19):E0520081:More than one storage class may not be specified
+rlApplication\Source\AppDisplay.c(199):W0523082:Pointer to the object of even alignment holds the odd address
+rlApplication\Source\AppDisplay.c(201):W0523082:Pointer to the object of even alignment holds the odd address
+rlApplication\Source\AppDisplay.c(208):W0523077:Called function should have prototype
+rlApplication\Source\AppDisplay.c(212):W0523077:Called function should have prototype
+rlApplication\Source\AppDisplay.c(216):W0523077:Called function should have prototype
+rlApplication\Source\AppDisplay.c(240):W0523077:Called function should have prototype
+rlApplication\Source\AppDisplay.c(331):E0520020:Identifier "PL8351_LCD" is undefined
+rlApplication\Source\AppDisplay.c(345):E0520020:Identifier "PL8351_LCD" is undefined
+rlApplication\Source\AppDisplay.c(413):E0520020:Identifier "PowerMode" is undefined
+rlApplication\Source\AppDisplay.c(413):E0520020:Identifier "PM_Battery_Mode" is undefined
+rlApplication\Source\AppDisplay.c(457):E0520020:Identifier "PL8351_CMU" is undefined
+rlApplication\Source\AppDisplay.c(459):E0520020:Identifier "CMU_CLKCTRL0_AESEN" is undefined
+rlApplication\Source\AppDisplay.c(462):E0520020:Identifier "PL8351_GPIO_P0" is undefined
+rlApplication\Source\AppDisplay.c(463):E0520020:Identifier "PL8351_GPIO_P1" is undefined
+rlApplication\Source\AppDisplay.c(464):E0520020:Identifier "PL8351_GPIO_P3" is undefined
+rlApplication\Source\AppDisplay.c(469):E0520020:Identifier "PL8351_LCD" is undefined
+
